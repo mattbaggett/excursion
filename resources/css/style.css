@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 h1 {
   font-family: Verdana;
@@ -8,6 +9,12 @@ h1 {
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+h2  {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
 }
 
 .coming {
