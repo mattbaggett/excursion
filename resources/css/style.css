@@ -1,7 +1,7 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
 }
 h1 {
   font-family: Verdana;
@@ -20,4 +20,19 @@ h2  {
 .coming {
   color: aquamarine;
   font-size: 16px;
+}
+
+.ex {
+  text-align: right;
+  color: gray;
+}
+
+.travel {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.gray {
+  font-size: 21px;
+  color: grey;
 }
